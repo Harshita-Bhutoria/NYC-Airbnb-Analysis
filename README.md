@@ -14,12 +14,12 @@ This project focuses on analyzing Airbnb data for New York City to uncover insig
 **Dataset Information**
 
 The dataset used for this analysis includes detailed information about Airbnb listings in New York City. Key fields include:
-  -Neighborhood Group: The five boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island).
-  -Room Type: Shared rooms, private rooms, and entire homes/apartments.
-  -Price: Listing price in USD.
-  -Availability: Number of days the listing is available in a year.
-  -Reviews: Average number of reviews per listing.
-  -Host and Listing Details: Host IDs and unique listing identifiers.
+  1. Neighborhood Group: The five boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island).
+  2. Room Type: Shared rooms, private rooms, and entire homes/apartments.
+  3. Price: Listing price in USD.
+  4. Availability: Number of days the listing is available in a year.
+  5. Reviews: Average number of reviews per listing.
+  6. Host and Listing Details: Host IDs and unique listing identifiers.
 
 **Key Features of the Dashboard**
 
@@ -36,7 +36,7 @@ The dataset used for this analysis includes detailed information about Airbnb li
 
 **Tools Used**
 
--Tableau: For data visualization and dashboard creation.
+Tableau: For data visualization and dashboard creation.
 
 **How to Access the Dashboard**
 
@@ -50,6 +50,6 @@ The dataset used for this analysis includes detailed information about Airbnb li
 
 **Future Enhancements**
 
-  -Incorporate predictive analytics to estimate future trends in pricing and availability.
-  -Add filters for more granular insights (e.g., by specific hosts or listing categories).
-  -Include seasonal trends for availability and pricing.
+1. Incorporate predictive analytics to estimate future trends in pricing and availability.
+2. Add filters for more granular insights (e.g., by specific hosts or listing categories).
+3. Include seasonal trends for availability and pricing.
