@@ -6,20 +6,20 @@ This project focuses on analyzing Airbnb data for New York City to uncover insig
 
 **Objectives**
 
-Analyze Airbnb listings across NYC neighborhoods to identify trends in pricing and availability.
-Compare room types and their average prices within neighborhoods.
-Visualize the relationship between availability and pricing.
-Highlight neighborhood-level insights to support market analysis.
+1. Analyze Airbnb listings across NYC neighborhoods to identify trends in pricing and availability.
+2. Compare room types and their average prices within neighborhoods.
+3. Visualize the relationship between availability and pricing.
+4. Highlight neighborhood-level insights to support market analysis.
 
 **Dataset Information**
 
 The dataset used for this analysis includes detailed information about Airbnb listings in New York City. Key fields include:
-Neighborhood Group: The five boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island).
-Room Type: Shared rooms, private rooms, and entire homes/apartments.
-Price: Listing price in USD.
-Availability: Number of days the listing is available in a year.
-Reviews: Average number of reviews per listing.
-Host and Listing Details: Host IDs and unique listing identifiers.
+  -Neighborhood Group: The five boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island).
+  -Room Type: Shared rooms, private rooms, and entire homes/apartments.
+  -Price: Listing price in USD.
+  -Availability: Number of days the listing is available in a year.
+  -Reviews: Average number of reviews per listing.
+  -Host and Listing Details: Host IDs and unique listing identifiers.
 
 **Key Features of the Dashboard**
 
@@ -36,7 +36,7 @@ Host and Listing Details: Host IDs and unique listing identifiers.
 
 **Tools Used**
 
-Tableau: For data visualization and dashboard creation.
+-Tableau: For data visualization and dashboard creation.
 
 **How to Access the Dashboard**
 
@@ -50,6 +50,6 @@ Tableau: For data visualization and dashboard creation.
 
 **Future Enhancements**
 
-Incorporate predictive analytics to estimate future trends in pricing and availability.
-Add filters for more granular insights (e.g., by specific hosts or listing categories).
-Include seasonal trends for availability and pricing.
+-Incorporate predictive analytics to estimate future trends in pricing and availability.
+-Add filters for more granular insights (e.g., by specific hosts or listing categories).
+-Include seasonal trends for availability and pricing.
