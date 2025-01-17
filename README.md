@@ -46,7 +46,7 @@ Tableau: For data visualization and dashboard creation.
 
 **Screenshot of the Dashboard**
 
-![image](https://github.com/user-attachments/assets/d46468bc-91fc-4f6c-8574-412c871dcf02)
+![image](https://github.com/user-attachments/assets/a56a86bc-208d-47b0-ad32-5b6749c0685c)
 
 **Future Enhancements**
 
