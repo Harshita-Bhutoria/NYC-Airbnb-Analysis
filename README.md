@@ -27,11 +27,11 @@ The dataset used for this analysis includes detailed information about Airbnb li
 2. Room Type Pricing: Visualizes the average price for each room type within neighborhoods.
 3. Availability vs. Price: Explores the correlation between a listing's availability and its price.
 4. Neighborhood Trends Map:
-  -Heatmaps to show average price and availability across neighborhoods.
-  -Interactive filters to explore room types geographically.
+    -Heatmaps to show average price and availability across neighborhoods.
+    -Interactive filters to explore room types geographically.
 5. KPI Metrics:
-  -Average price and availability.
-  -Maximum price and average minimum nights for bookings.
+    -Average price and availability.
+    -Maximum price and average minimum nights for bookings.
 6. Trends Over Time: Visualizes key metrics (price, reviews, availability) across different years.
 
 **Tools Used**
