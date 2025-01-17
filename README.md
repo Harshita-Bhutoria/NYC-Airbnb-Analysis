@@ -50,6 +50,6 @@ The dataset used for this analysis includes detailed information about Airbnb li
 
 **Future Enhancements**
 
--Incorporate predictive analytics to estimate future trends in pricing and availability.
--Add filters for more granular insights (e.g., by specific hosts or listing categories).
--Include seasonal trends for availability and pricing.
+  -Incorporate predictive analytics to estimate future trends in pricing and availability.
+  -Add filters for more granular insights (e.g., by specific hosts or listing categories).
+  -Include seasonal trends for availability and pricing.
